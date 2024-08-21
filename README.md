@@ -1,5 +1,5 @@
 # Accordo Cross Platform
-Mobile Computing project - MSc Computer Science program
+Mobile Computing project
 
 **Accordo Cross Platform** è un client prototipo per una piattaforma di discussione online, ispirato a sistemi come Discord ma con caratteristiche e funzionalità uniche. L'obiettivo del progetto è creare un ambiente di discussione centralizzato, dove tutti gli utenti hanno accesso a un unico forum globale. La piattaforma è organizzata in più canali tematici, permettendo agli utenti di interagire in modo flessibile e dinamico.
 
